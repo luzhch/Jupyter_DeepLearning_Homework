@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000719.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>320655132</flickrid>
+	</source>
+	<owner>
+		<flickrid>mediocre</flickrid>
+		<name>Steef</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>323</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>153</ymin>
+			<xmax>24</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
