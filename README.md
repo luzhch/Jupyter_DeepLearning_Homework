@@ -7,3 +7,8 @@
 > **Artificial Neural Network** Course by Ruixuan, Wang (Royal, Wang), SDCS, SYSU.
 >
 > **Author** Nino Lau.
+
+
+
+- **./DL_week_** is the homework of every week
+- 
