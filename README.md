@@ -12,4 +12,4 @@
 
 - **./DL_week_** is the homework of every week
 - **./Identify Cactus** is the teamwork of Kaggle Completition
-- ./Cycle-GAN is the cycle GAN implementation for my personal final project
+- **./Cycle-GAN** is the cycle GAN implementation for my personal final project
